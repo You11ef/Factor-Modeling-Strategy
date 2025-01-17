@@ -1,1 +1,1 @@
-# Factor-Modeling-Strategy
+# Factor-Modeling-Factor-Based-Strategy
